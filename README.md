@@ -9,7 +9,7 @@
 *Wireless Technologies & Ecosystems*  
 📍 *Cupertino, California*  
 
-## 🚀 Skills  
+## ⌨️ Skills  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)

@@ -1,16 +1,18 @@
-## Hi there 👋
+# :postbox: Hello!
 
-<!--
-**compscibro/compscibro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohammed and I am interested in Software Engineering - Backend, iOS/Mobile, AI/ML.
 
-Here are some ideas to get you started:
+#### Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```markdown
+Software Engineer Intern @ Apple Inc.
+Wireless Technologies & Ecosystems
+📍 Cupertino, California
+```
+#### Skills:
+```markdown
+Languages:                 Java, C, Swift, Python, HTML/CSS
+Frameworks & Libraries:    JUnit, UIKit, SwiftUI, Requests
+Database:                  AWS, REST APIs, JSON, SQL
+Tools:                     Git/GitHub, VIM, Maven, Xcode
+```

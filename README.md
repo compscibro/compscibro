@@ -5,7 +5,7 @@
 </div>
 
 ## 💻 Experience
-**Software Engineer Intern** @ **Apple Inc.**  
+** Software Engineer Intern**
 *Wireless Technologies & Ecosystems*  
 📍 *Cupertino, California*  
 

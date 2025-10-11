@@ -35,6 +35,6 @@
 - 🎓 CS Student at GMU
 - 📚 Courses: OOP, DSA, iOS, SWE, Testing
 - 🎨 Hobbies: Gym, Cologne Collection, Fashion, Guitar, Books
-<img src="images/ptsd-in-o(1).jpg" alt="PTSD in O(1)" width="400"/>
+<!-- <img src="images/img.jpg" alt="alternative text" width="400"/> -->
 
 </details>

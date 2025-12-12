@@ -1,39 +1,50 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&weight=700&size=28&duration=2300&pause=1100&color=b08968&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mohammed!;Software+Engineer+%E2%80%94+Backend+%7C+iOS+%7C+AI%2FML)](https://git.io/typing-svg)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false"/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&weight=700&size=28&duration=2300&pause=1100&color=1f6feb&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mohammed!;Software+Engineer+%7C+Backend+%7C+iOS+%7C+AI%2FML)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 💻 Experience
 ** Software Engineer Intern**  
 *Wireless Technologies & Ecosystems*  
 📍 *Cupertino, California*  
 
-## 🖥️ Skills  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54)
-![HTML/CSS](https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat&logo=html5&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-2D2D2D?style=flat&logo=swift&logoColor=white)
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=cloudflare&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+## 🖥️ Skills  
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://img.icons8.com/fluency/96/swiftui.png" width="35"/>
+  <img src="https://img.icons8.com/?size=96&id=BQbKONe0owd3&format=png" width="31"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/>
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png" width="30"/>
+  <img src="https://img.icons8.com/?size=100&id=nTxnreeoeQxh&format=png" width="30"/>
+  <img src="https://img.icons8.com/?size=100&id=zC9SDvhmTlTo&format=png" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' width='30'/>
+  <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" width="35"/>
+
+</p>
+
 
 <details>
 <summary>✨ More About Me</summary>
   
 - 🎓 CS Student at GMU
-- 📚 Courses: OOP, DSA, iOS, SWE, Testing
+- 📚 Courses: OOP, DSA, iOS, AI/ML, Backend
 - 🎨 Hobbies: Gym, Cologne Collection, Fashion, Guitar, Books
 <!-- <img src="images/img.jpg" alt="alternative text" width="400"/> -->
 

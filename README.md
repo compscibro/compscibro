@@ -17,9 +17,9 @@
 <p align="center">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
@@ -43,9 +43,8 @@
 <details>
 <summary>✨ More About Me</summary>
   
-- 🎓 CS Student at GMU
+- 🎓 B.S. Computer Science, George Mason University 27'
 - 📚 Courses: OOP, DSA, iOS, AI/ML, Backend
-- 🎨 Hobbies: Gym, Cologne Collection, Fashion, Guitar, Books
-<!-- <img src="images/img.jpg" alt="alternative text" width="400"/> -->
+- 🎨 Hobbies: - 🎨 Hobbies: Fitness, chess, reading, fashion, fragrance collecting, tech gadgets, and mechanical keyboards
 
 </details>

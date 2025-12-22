@@ -45,6 +45,6 @@
   
 - 🎓 B.S. Computer Science, George Mason University 27'
 - 📚 Courses: OOP, DSA, iOS, AI/ML, Backend
-- 🎨 Hobbies: - 🎨 Hobbies: Fitness, chess, reading, fashion, fragrance collecting, tech gadgets, and mechanical keyboards
+- 🎨 Hobbies: Fitness, chess, reading, fashion, fragrance collecting, tech gadgets, and mechanical keyboards
 
 </details>

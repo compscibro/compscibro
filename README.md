@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/?size=100&id=zC9SDvhmTlTo&format=png" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' width='30'/>
+  <!-- <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' width='30'/> -->
   <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" width="35"/>
 
 </p>

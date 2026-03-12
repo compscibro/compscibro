@@ -17,5 +17,5 @@
 
 <br>
 
-[linkedin](https://linkedin.com/in/compscibro) &nbsp;·&nbsp; [devpost](https://devpost.com/compscibro) &nbsp;·&nbsp; [medium](https://medium.com/@compscibro) &nbsp;·&nbsp; [youtube](https://www.youtube.com/@comp-sci-bro)
+[linkedin](https://linkedin.com/in/compscibro) &nbsp;·&nbsp; [website](https://compscibro.github.io) &nbsp;·&nbsp; [devpost](https://devpost.com/compscibro) &nbsp;·&nbsp; [medium](https://medium.com/@compscibro) &nbsp;·&nbsp; [youtube](https://www.youtube.com/@comp-sci-bro)
 </div>
